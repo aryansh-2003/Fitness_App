@@ -3,21 +3,8 @@
 FitTrack is a premium, full-stack fitness application designed with a "Product-First" mindset. The goal was to move away from generic SaaS templates and build something that feels energetic, high-end, and professional—drawing inspiration from modern athletic brands like Gymshark and Nike.
 
 ## 🚀 Live Demo
-**Live Link:** [https://fitness-app-one-sooty.vercel.app]
+**Live Link:** https://fitness-app-one-sooty.vercel.app
 
-## 📸 Screenshots
-
-### 1. Hero & Landing Page
-![Landing Page](https://fitness-app-one-sooty.vercel.app/screenshot-landing.png)
-*High-impact hero section with video background and bold typography.*
-
-### 2. Multi-Step Onboarding
-![Sign Up](https://fitness-app-one-sooty.vercel.app/screenshot-signup.png)
-*Seamless 5-step registration flow with real-time validation and progress tracking.*
-
-### 3. User Dashboard
-![Dashboard](https://fitness-app-one-sooty.vercel.app/screenshot-dashboard.png)
-*Comprehensive fitness overview featuring activity charts, quick actions, and personal metrics.*
 
 ---
 
@@ -110,4 +97,4 @@ I strictly followed a "No-Ad-Hoc-Styles" rule. Every button, input, and card is 
 - [ ] **WebSockets:** Live "Global Activity" feed on the dashboard.
 
 ---
-Created with ❤️ by **[Aryansh Dixit]**
+Created with ❤️ by **Aryansh Dixit**
